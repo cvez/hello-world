@@ -1,2 +1,7 @@
 # hello-world
-Just a first repository
+
+Hi there!
+
+Creating applications using c++ and c#
+Just a first repository....
+ ive added the first commit message
